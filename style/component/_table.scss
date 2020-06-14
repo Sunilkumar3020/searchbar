@@ -8,12 +8,11 @@ body {
   width: 90%;
   margin: 0 auto;
 }
-
 table,
 tr,
 td,
 th {
-  background-color: #faa0a0;
+  background-color: rgb(250, 160, 160);
   border: 1px solid #000;
   border-collapse: collapse;
 }
@@ -28,8 +27,7 @@ th {
   height: 1.8rem;
   padding: 0.25rem;
   border: 1px solid gray;
+
   outline: none;
   margin-top: 2rem;
 }
-
-/*# sourceMappingURL=style.css.map */
